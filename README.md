@@ -1,6 +1,7 @@
 # httpsqs
 Automatically exported from code.google.com/p/httpsqs
-
+Author zyan
+home http://zyan.cc/httpsqs/7/1/
 
 # Installation
 
